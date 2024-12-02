@@ -38,11 +38,6 @@ const projectList = [
         description: ""
     },
     {
-        thumbnailSrc: ignusImg,
-        name: "Ignus 2022",
-        description: ""
-    },
-    {
         thumbnailSrc: jdAcadImg,
         name: "Jodhpur Acad Landing",
         description: ""

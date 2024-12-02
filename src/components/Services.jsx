@@ -68,7 +68,8 @@ export default function Services() {
             </div>
 
             <p className="w-[50%] text-center mt-32 mb-20 font-thin leading-9 text-sm max-[850px]:my-20 max-[850px]:w-[80%] max-[850px]:mb-9">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt  mollit anim id est laborum. s nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt  mollit anim id est laborum.
+                I'm Mohit Sharma, a 3rd-year student who has started his journey in Electrical Engineering at IIT Jodhpur with knowledge in DSA, c++,python and a keen interest in Data Analytics and Web Development. 
+                Looking forward to an excellent opportunity to excel on this path of life with an optimistic approach!
             </p>
 
         </section>

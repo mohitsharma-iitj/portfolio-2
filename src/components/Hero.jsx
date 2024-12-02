@@ -164,7 +164,7 @@ export default function Hero() {
                             transition: "all 3s cubic-bezier(0.17, 0.55, 0.55, 1) 0.5s"
                         }}
                     >
-                        Vansh's
+                        Mohit's
                     </div>
                     <Hline inView={inView} />
                     <div className="flex flex-col items-center gap-2 py-5 max-[850px]:py-3 max-[850px]:gap-1" ref={quoteRef}>
@@ -174,10 +174,10 @@ export default function Hero() {
                     <Hline inView={inView} />
 
                     <div className="flex justify-center items-center gap-9 text-dgrey text-[1.8rem] pt-24 max-[850px]:pt-40">
-                        <a href="https://github.com/vansh2308"> <button><FaGithub /></button> </a>
-                        <a href="https://www.linkedin.com/in/vansh-agarwal-9b2836166/"> <button><FaLinkedin /></button> </a>
-                        <a href='mailto:agarwal.25@iitj.ac.in'> <button><SiGmail /></button> </a>
-                        <a href="https://dribbble.com/vansh2308"> <button><PiDribbbleLogoFill /></button> </a>
+                        <a href="https://github.com/mohitsharma-iitj"> <button><FaGithub /></button> </a>
+                        <a href="https://www.linkedin.com/in/mohit-sharma-03672625b/"> <button><FaLinkedin /></button> </a>
+                        <a href='mailto:sharma.132@iitj.ac.in'> <button><SiGmail /></button> </a>
+                        {/* <a href="https://dribbble.com/vansh2308"> <button><PiDribbbleLogoFill /></button> </a> */}
                     </div>
 
                 </div>
